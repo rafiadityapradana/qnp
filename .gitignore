@@ -1,0 +1,38 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# IntelliJ IDEA
+.idea/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Maven
+target/
+
+# Gradle
+build/
+.gradle/
+
+# Spring Boot
+*.jar
+*.war
+!spring-boot-actuator/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Logs #
+logs/
+
+# OS generated files #
+.DS_Store*
+ehthumbs.db
+Thumbs.db
