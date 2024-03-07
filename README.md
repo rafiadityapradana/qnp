@@ -1,6 +1,7 @@
 run : mvn spring-boot:run
 
 untuk access token dapat mengunakan http://localhost:9000/auth/v1/token
+curl --location 'http://localhost:9000/auth/v1/token'
 
 crud contak http://localhost:9000/api/kontak
 
